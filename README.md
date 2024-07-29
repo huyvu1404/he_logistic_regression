@@ -1,4 +1,4 @@
-Logistic Regression Over Encrypted Dataset
+# Logistic Regression Over Encrypted Dataset
 
 ## Introduction
 In this project, I implemented a logistic regression model capable of operating on an encrypted dataset using homomorphic encryption. 
